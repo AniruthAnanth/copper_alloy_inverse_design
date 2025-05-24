@@ -1,5 +1,7 @@
 # Inverse Design of Copper Alloys
 
+This project explores the inverse design of copper alloys using machine learning models to predict alloy compositions that yield desired mechanical properties. The approach leverages a curated dataset of copper-based alloys and implements several generative models (i.e. CVAE, ALAE, CTGAN) to map alloy features to target properties.
+
 - _Proof of concept._
 - Dataset was modified to replace unknown character with "?"
 
